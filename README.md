@@ -1,0 +1,1 @@
+# Hi! I'm John Ermacoff, 15 years old wannabe software and game developer from Novosibirsk, Russia. I love C# and currently studying C# and Unity, later on I will be learning C++ with Unreal Engine. I'd love to communicate with other developers, you can contact me on Twitter: @B11rby, or Discord: Toll Birbie#9069.
