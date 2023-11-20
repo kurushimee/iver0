@@ -3,7 +3,7 @@
 
 I'm **Ivan Ermakov**,
 
-A  game developer that looks for a job.
+A Russian indie-game developer, currently studying in High School.
 
-I mainly use C# and Python, but I know some Java too. My game engine of choice is Unity, began working in it during 2019. Currently I'm trying to delve deeper into indie game development and I hope it'll work out!
+I have the most experience with C# and Python, but I also tried making stuff with other languages. My game engine of choice is Godot 4, which I'm trying to get accustomed to after working in Unity for a couple years.
 You can contact me on Discord: @iver0.
